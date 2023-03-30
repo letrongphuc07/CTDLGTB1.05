@@ -1,4 +1,4 @@
-//*Viet hàm de quy tính tong cua bieu thuc sau dây: S(x, n) = x + x^2/2! + x^3/3! + … + x^n/n!
+//*Cho mảng 1 chiều các số thực. Hãy viết hàm đệ quy đếm số lượng giá trị dương có trong mảng
 
 
 #include<iostream>
