@@ -33,7 +33,6 @@ int main(){
 	 nhap(a, n);
 	 cout << "mang vua nhap la: \n" << endl;
 	 xuat(a,n);
-	 int tong = sum(a,n-1);
    	 cout << "\ndem so duong: " << demsoduong(a,n-1) << endl;
 	 return 0;
 }
